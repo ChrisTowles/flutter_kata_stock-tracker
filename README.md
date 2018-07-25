@@ -49,6 +49,8 @@ To grow better at programming in flutter and dart I came up with some requiremen
     * You can use `https://api.iextrading.com/1.0/stock/{STOCK_SYMBOL}/batch?types=quote&last=1`
     * Example: AAPL (Apple)
         * [https://api.iextrading.com/1.0/stock/AAPL/batch?types=quote&last=1](https://api.iextrading.com/1.0/stock/AAPL/batch?types=quote&last=1)
+ * parse json with `built_value` package. 
+    * Hint - Parse with - [https://github.com/charafau/json2builtvalue](json2builtvalue)
 
 ### Addtional Requirements Level - 5
 * Add '2' tests to the `stocksbloc`
