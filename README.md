@@ -50,7 +50,7 @@ To grow better at programming in flutter and dart I came up with some requiremen
     * Example: AAPL (Apple)
         * [https://api.iextrading.com/1.0/stock/AAPL/batch?types=quote&last=1](https://api.iextrading.com/1.0/stock/AAPL/batch?types=quote&last=1)
  * parse json with `built_value` package. 
-    * Hint - Parse with - [https://github.com/charafau/json2builtvalue](json2builtvalue)
+    * Hint - generate with - [json2builtvalue](https://github.com/charafau/json2builtvalue)
 
 ### Addtional Requirements Level - 5
 * Add '2' tests to the `stocksbloc`
@@ -74,6 +74,7 @@ https://snippet-generator.app/
 
 
 ## Docs
+[Technical Debt and Streams/BLoC - The Boring Flutter Development Show, Ep. 4](https://www.youtube.com/watch?v=fahC3ky_zW0&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK&index=5&linkId=54548192)
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
